@@ -16,6 +16,7 @@ body {
 	color: darkgrey;
 	background-color: white;
 	padding: 25px 50px;
+	text-align: left;
 	
 
 }	
@@ -31,4 +32,5 @@ div {
 		}
 li {
 	line-height: 25px;	
+	text-align: justify;
 	}		
